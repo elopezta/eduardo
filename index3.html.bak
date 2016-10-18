@@ -2,9 +2,8 @@
 <html lang="es">
 
 <head>
-    <title>Curso de Joyeria</title>
-    <!-- favicon -->
-    <link rel="shortcut icon" type="image/x-icon" href="images/git-icon.ico">
+    <title>Curso de Delta</title>
+ 
     <!-- Estílos -->
     <link rel="stylesheet" href="styles/styles.css">
     <!-- Normalize -->
@@ -29,10 +28,18 @@
     <!-- Portada -->
     <div class="cover">
         <div class="content">
-            
-            <h1>Curso de Joyeria</h1>
-            <h1>Carmen Areces</h1>
-        
+        	
+        	           
+            <h1>Curso de Delta</h1>
+            <div class="cajas margin-left">
+             <ul>
+             
+           
+            <li><h2>ATR</h2></li>
+            <li><h2>FACTURACIÓN</h2></li>
+            <li><h2>COBROS</h2></li>
+         </ul>
+          </div>
             <a href="#bienvenida" , class="icon fa fa-arrow-down"></a>
         </div>
     </div>
@@ -50,18 +57,9 @@
     <section class="info-2">
         
         </div>
-        <div class="cajas margin-left">
-            <h2>Fili Santillán - Tutor</h2>
-            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iste ullam praesentium modi dolorum, maxime in magnam delectus error corporis dolore fugiat quam.</p>
-            <ul>
-                <li>Co-founder at @SetihTeam</li>
-                <li>Front-end Developer</li>
-                <li>Blogger</li>
-                <li>Platzi Student Ambassador</li>
-            </ul>
-            isantillan.com/"><i class="fa fa-plus-circle fa-2x"></i></a>
-
-        </div>
+        
+          
+       
         <div class="relleno"></div>
     </section>
     <section class="info">
